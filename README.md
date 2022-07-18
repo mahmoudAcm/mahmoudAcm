@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudacm" alt="mahmoudacm" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://mahmoud-acm-portfolio.herokuapp.com/](https://mahmoud-acm-portfolio.herokuapp.com/)
-
 - 📫 How to reach me **mahmoud.acm.123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
