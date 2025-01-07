@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Tarek</h1>
 <h3 align="center">An Egypt-based software engineer with a strong passion for programming and technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudacm&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudacm" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudacm" alt="mahmoudacm" /></a> </p>
 
 - 📫 How to reach me **mahmoud.acm.123@gmail.com**
